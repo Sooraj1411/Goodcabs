@@ -19,7 +19,7 @@ reality (city_name,`month`,`actual_trips`) AS (
 )
 
 SELECT
-	tr.city_name,
+    tr.city_name,
     tr.`month`,
     re.actual_trips,
     tr.target_trips,
