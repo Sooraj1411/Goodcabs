@@ -18,4 +18,7 @@
   + Enable data-driven strategies to enhance operational efficiency and passenger experience.
 
 ## ⚙️ *Tools I used*
-+ 'MySQL'
++ `MySQL` - For Data exploration & ad-hoc analysis.
++ `Power BI` - For Data Analysis & Data Visualization
++ `MS Excel` - For Data Validation & Cross Checking
++ `MS PowerPoint` - For presentation
