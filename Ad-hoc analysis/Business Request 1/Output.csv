@@ -1,0 +1,11 @@
+city_name,total_trips,avg_fare_per_km,avg_fare_per_trip,%_contribution_to_total_trips
+Chandigarh,38981,12.1Rs,283.7Rs,9.15%
+Coimbatore,21104,11.1Rs,167.0Rs,4.96%
+Indore,42456,10.9Rs,179.8Rs,9.97%
+Jaipur,76888,16.1Rs,483.9Rs,18.05%
+Kochi,50702,13.9Rs,335.2Rs,11.90%
+Lucknow,64299,11.8Rs,147.2Rs,15.10%
+Mysore,16238,15.1Rs,249.7Rs,3.81%
+Surat,54843,10.7Rs,117.3Rs,12.88%
+Vadodara,32026,10.3Rs,118.6Rs,7.52%
+Visakhapatnam,28366,12.5Rs,282.7Rs,6.66%
