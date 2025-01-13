@@ -27,11 +27,17 @@
 
 
 ## ✔️ *Ad-hoc Analysis:*
-[Click Here for Ad-hoc analysis](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis)
-[Ad- hoc Questions](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/ad-hoc-requests.pdf)
-+ [City Level Fare and Trip Summary Report](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%201)
-+ [Monthly City level Trips Target Performance Report](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%202)
-+ [City level Repeat passenger Trip Frequency Report](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%203)
-+ [Identify cities with the highest & lowest total new passengers](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%204)
-+ [Identify month with the highest revenue for each city](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%205)
-+ [Repeat passenger Rate Analysis](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%206)
+[Click Here for Ad-hoc analysis](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis) <br>
+[Ad- hoc Questions](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/ad-hoc-requests.pdf)<br>
++ City Level Fare and Trip Summary Report
+    + [Business Request 1](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%201)<br>
++ Monthly City level Trips Target Performance Report
+    + [Business Request 2](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%202)<br>
++ City level Repeat passenger Trip Frequency Report
+    + [Business Request 3](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%203)<br>
++ Identify cities with the highest & lowest total new passengers
+    + [Business Request 4](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%204)<br>
++ Identify month with the highest revenue for each city
+    + [Business Request 5](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%205)<br>
++ Repeat passenger Rate Analysis
+    + [Business Request 6](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%206)<br>
