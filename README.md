@@ -28,7 +28,8 @@
 
 ## ✔️ *Ad-hoc Analysis:*
 [Click Here for Ad-hoc analysis](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis) <br>
-[Ad- hoc Questions](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/ad-hoc-requests.pdf)<br>
+Ad- hoc Questions [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/ad-hoc-requests.pdf)<br>
+Ad-hoc Analysis pdf [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/Ad%20hoc%20analysis.pdf)<br><br>
 + City Level Fare and Trip Summary Report
     + [Business Request 1](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%201)<br>
 + Monthly City level Trips Target Performance Report
@@ -43,5 +44,5 @@
     + [Business Request 6](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%206)<br>
 
 ## **Dataset Information**
-For working with dataset, [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Database_schema)
+For working with dataset, [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Database_schema)<br>
 For csv files, [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/csv%20files)
