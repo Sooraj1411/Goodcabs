@@ -41,7 +41,8 @@ Ad- hoc Questions [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc
     + [Business Request 5](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%205)<br>
 + Repeat passenger Rate Analysis
     + [Business Request 6](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%206)<br>
-[✔️]Ad-hoc Analysis pdf [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/Ad%20hoc%20analysis.pdf)<br>
+    
+✔Ad-hoc Analysis pdf [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/Ad%20hoc%20analysis.pdf)<br>
 
 ## **Dataset Information**
 For working with dataset, [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Database_schema)<br>
