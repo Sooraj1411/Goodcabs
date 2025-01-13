@@ -24,3 +24,14 @@
 + `MS PowerPoint` - For presentation
 
 *Initially used pen & paper to find out the relationship between tables in the DataBases* [See Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Data%20Modelling%20on%20Paper)
+
+
+## ✔️ *Ad-hoc Analysis:*
+[Click Here for Ad-hoc analysis](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis)
+[Ad- hoc Questions](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/ad-hoc-requests.pdf)
++ [City Level Fare and Trip Summary Report](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%201)
++ [Monthly City level Trips Target Performance Report](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%202)
++ [City level Repeat passenger Trip Frequency Report](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%203)
++ [Identify cities with the highest & lowest total new passengers](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%204)
++ [Identify month with the highest revenue for each city](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%205)
++ [Repeat passenger Rate Analysis](https://github.com/Sooraj1411/Goodcabs/tree/main/Ad-hoc%20analysis/Business%20Request%206)
