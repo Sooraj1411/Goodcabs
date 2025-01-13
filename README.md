@@ -8,11 +8,11 @@
 +2024 Targets:
   + Ambitious goals for growth and improving passenger satisfaction.
 + Key Metrics Analyzed:
-- Trip volume.
-- Passenger satisfaction.
-- Repeat passenger rate.
-- Trip distribution.
-- Balance between new and repeat passengers.
+  - Trip volume.
+  - Passenger satisfaction.
+  - Repeat passenger rate.
+  - Trip distribution.
+  - Balance between new and repeat passengers.
 + Purpose of the Analysis:
   + Evaluate the company’s performance across these metrics.
   + Enable data-driven strategies to enhance operational efficiency and passenger experience.
