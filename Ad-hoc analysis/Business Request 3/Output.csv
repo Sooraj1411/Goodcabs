@@ -1,61 +1,11 @@
-city_name,month,actual_trips,target_trips,performance_status,%_difference
-Visakhapatnam,January,4468,4500,"Below Target",-0.7
-Chandigarh,January,6810,7000,"Below Target",-2.7
-Surat,January,8358,9000,"Below Target",-7.1
-Vadodara,January,4775,6000,"Below Target",-20.4
-Mysore,January,2485,2000,"Above Target",24.3
-Kochi,January,7344,7500,"Below Target",-2.1
-Indore,January,6737,7000,"Below Target",-3.8
-Jaipur,January,14976,13000,"Above Target",15.2
-Coimbatore,January,3651,3500,"Above Target",4.3
-Lucknow,January,10858,13000,"Below Target",-16.5
-Visakhapatnam,February,4793,4500,"Above Target",6.5
-Chandigarh,February,7387,7000,"Above Target",5.5
-Surat,February,9069,9000,"Above Target",0.8
-Vadodara,February,5228,6000,"Below Target",-12.9
-Mysore,February,2668,2000,"Above Target",33.4
-Kochi,February,7688,7500,"Above Target",2.5
-Indore,February,7210,7000,"Above Target",3.0
-Jaipur,February,15872,13000,"Above Target",22.1
-Coimbatore,February,3404,3500,"Below Target",-2.7
-Lucknow,February,12060,13000,"Below Target",-7.2
-Visakhapatnam,March,4877,4500,"Above Target",8.4
-Chandigarh,March,6569,7000,"Below Target",-6.2
-Surat,March,9267,9000,"Above Target",3.0
-Vadodara,March,5598,6000,"Below Target",-6.7
-Mysore,March,2633,2000,"Above Target",31.7
-Kochi,March,9495,7500,"Above Target",26.6
-Indore,March,7019,7000,"Above Target",0.3
-Jaipur,March,13317,13000,"Above Target",2.4
-Coimbatore,March,3680,3500,"Above Target",5.1
-Lucknow,March,11224,13000,"Below Target",-13.7
-Visakhapatnam,April,4938,5000,"Below Target",-1.2
-Chandigarh,April,5566,6000,"Below Target",-7.2
-Surat,April,9831,10000,"Below Target",-1.7
-Vadodara,April,5941,6500,"Below Target",-8.6
-Mysore,April,2603,2500,"Above Target",4.1
-Kochi,April,9762,9000,"Above Target",8.5
-Indore,April,7415,7500,"Below Target",-1.1
-Jaipur,April,11406,9500,"Above Target",20.1
-Coimbatore,April,3661,3500,"Above Target",4.6
-Lucknow,April,10212,11000,"Below Target",-7.2
-Visakhapatnam,May,4812,5000,"Below Target",-3.8
-Chandigarh,May,6620,6000,"Above Target",10.3
-Surat,May,9774,10000,"Below Target",-2.3
-Vadodara,May,5799,6500,"Below Target",-10.8
-Mysore,May,3007,2500,"Above Target",20.3
-Kochi,May,10014,9000,"Above Target",11.3
-Indore,May,7787,7500,"Above Target",3.8
-Jaipur,May,11475,9500,"Above Target",20.8
-Coimbatore,May,3550,3500,"Above Target",1.4
-Lucknow,May,9705,11000,"Below Target",-11.8
-Visakhapatnam,June,4478,5000,"Below Target",-10.4
-Chandigarh,June,6029,6000,"Above Target",0.5
-Surat,June,8544,10000,"Below Target",-14.6
-Vadodara,June,4685,6500,"Below Target",-27.9
-Mysore,June,2842,2500,"Above Target",13.7
-Kochi,June,6399,9000,"Below Target",-28.9
-Indore,June,6288,7500,"Below Target",-16.2
-Jaipur,June,9842,9500,"Above Target",3.6
-Coimbatore,June,3158,3500,"Below Target",-9.8
-Lucknow,June,10240,11000,"Below Target",-6.9
+city_name,2-Trips,3-Trips,4-Trips,5-Trips,6-Trips,7-Trips,8-Trips,9-Trips,10-Trips
+Visakhapatnam,51.3%,25.0%,10.0%,5.4%,3.2%,2.0%,1.4%,0.9%,0.9%
+Chandigarh,32.3%,19.3%,15.7%,12.2%,7.4%,5.5%,3.5%,2.3%,1.8%
+Surat,9.8%,14.3%,16.6%,19.7%,18.5%,11.9%,6.2%,1.7%,1.4%
+Vadodara,9.9%,14.2%,16.5%,18.1%,19.1%,12.9%,5.8%,2.0%,1.6%
+Mysore,48.7%,24.4%,12.7%,5.8%,4.1%,1.8%,1.4%,0.5%,0.5%
+Kochi,47.7%,24.4%,11.8%,6.5%,3.9%,2.1%,1.7%,1.2%,0.8%
+Indore,34.3%,22.7%,13.4%,10.3%,6.8%,5.2%,3.3%,2.4%,1.5%
+Jaipur,50.1%,20.7%,12.1%,6.3%,4.1%,2.5%,1.9%,1.2%,1.0%
+Coimbatore,11.2%,14.8%,15.6%,20.6%,17.6%,10.5%,6.2%,2.3%,1.2%
+Lucknow,9.7%,14.8%,16.2%,18.4%,20.2%,11.3%,6.4%,1.9%,1.1%
