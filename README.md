@@ -23,4 +23,4 @@
 + `MS Excel` - For Data Validation & Cross Checking
 + `MS PowerPoint` - For presentation
 
-*Initially used pen & paper to find out the relationship between tables in the DataBases* (See Here[https://github.com/Sooraj1411/Goodcabs/tree/main/Data%20Modelling%20on%20Paper]
+*Initially used pen & paper to find out the relationship between tables in the DataBases* [See Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Data%20Modelling%20on%20Paper)
