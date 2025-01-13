@@ -22,3 +22,5 @@
 + `Power BI` - For Data Analysis & Data Visualization
 + `MS Excel` - For Data Validation & Cross Checking
 + `MS PowerPoint` - For presentation
+
+*Initially used pen & paper to find out the relationship between tables in the DataBases *
