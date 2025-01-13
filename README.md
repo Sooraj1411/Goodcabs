@@ -1,6 +1,6 @@
 # **Goodcabs Performance Insights**
 
-##🏡 *Introduction*
+## 📊 *Introduction*
 + Objective: Analyze key operational metrics for Goodcabs, a cab service provider focused on tier-2 cities in India.
 + Company Overview:
   + Established two years ago, with a strong presence in the Indian market.
