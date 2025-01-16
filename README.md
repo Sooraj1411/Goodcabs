@@ -52,6 +52,17 @@ For working with dataset (both sql & csv files are available), [Click Here](http
 
 ## 💡 *Things I learnt*
 - [X] DAX (Data Analysis Expression) - Used a varieties of DAX formulas in Power BI to calculate required measures & columns
-- [ ] Proficiency in ETL (Extract, Transform & Load)
-- [ ]  Writing complex SQL quueries to get ad-hoc analysis done
-- [ ]  Using Excel formulas to validate the data from dashboard
+- [X] Proficiency in ETL (Extract, Transform & Load)
+- [X]  Writing complex SQL quueries to get ad-hoc analysis done
+- [X]  Using Excel formulas to validate the data from dashboard
+
+
+## 📄 *Report*
+- Check out the complete dashboard (created in Power BI) pdf, [here](https://github.com/Sooraj1411/Goodcabs/blob/main/Goodcabs%20Dashboard%20.pdf)
+- For checking out the live dashboard, [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMzdhODVmNDUtNmYxOC00YmY2LWJiMGEtNjQ4ZjJhOTc3YWY5IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9)
+- If interested in checking out the complete report (Primary Question + Secondary Questions + Recommendations), [Click Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Goodcabs%20complete%20report.pdf)
+
+
+*Thank You for reading this far*
+**Have any doubts?, connect with me on [LinkedIn](https://www.linkedin.com/in/surajkumar-analyst/) or message me on my email**
+Email ID - suraj783856@gmail.com
