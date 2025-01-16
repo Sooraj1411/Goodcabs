@@ -60,9 +60,9 @@ For working with dataset (both sql & csv files are available), [Click Here](http
 ## 📄 *Report*
 - Check out the complete dashboard (created in Power BI) pdf, [here](https://github.com/Sooraj1411/Goodcabs/blob/main/Goodcabs%20Dashboard%20.pdf)
 - For checking out the live dashboard, [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMzdhODVmNDUtNmYxOC00YmY2LWJiMGEtNjQ4ZjJhOTc3YWY5IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9)
-- If interested in checking out the complete report (Primary Question + Secondary Questions + Recommendations), [Click Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Goodcabs%20complete%20report.pdf)
+- If interested in checking out the complete report (Primary Question + Secondary Questions + Recommendations), [Click Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Goodcabs%20complete%20report.pdf)<br>
 
 
 *Thank You for reading this far*
-**Have any doubts?, connect with me on [LinkedIn](https://www.linkedin.com/in/surajkumar-analyst/) or message me on my email**
+**Have any doubts?, connect with me on [LinkedIn](https://www.linkedin.com/in/surajkumar-analyst/) or message me on my email**<br>
 Email ID - suraj783856@gmail.com
