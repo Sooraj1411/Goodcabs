@@ -46,3 +46,12 @@ Ad- hoc Questions [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc
 
 ## **Dataset Information**
 For working with dataset (both sql & csv files are available), [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Dataset)<br>
+
+## 📃 *Data Modelling*
++ Used Snowflake schema, [See Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Data%20Modelling%20used%20in%20BI%20tool.png)
+
+## 💡 *Things I learnt*
+- [x] DAX (Data Analysis Expression) - Used a varieties of DAX formulas in Power BI to calculate required measures & columns
+- [x] Proficiency in ETL (Extract, Transform & Load)
+- [x]  Writing complex SQL quueries to get ad-hoc analysis done
+- [x]  Using Excel formulas to validate the data from dashboard
