@@ -45,5 +45,4 @@ Ad- hoc Questions [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc
 ✔Ad-hoc Analysis pdf [Here](https://github.com/Sooraj1411/Goodcabs/blob/main/Ad-hoc%20analysis/Ad%20hoc%20analysis.pdf)<br>
 
 ## **Dataset Information**
-For working with dataset, [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Database_schema)<br>
-For csv files, [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/csv%20files)
+For working with dataset (both sql & csv files are available), [Click Here](https://github.com/Sooraj1411/Goodcabs/tree/main/Dataset)<br>
