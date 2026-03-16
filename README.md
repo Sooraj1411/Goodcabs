@@ -5,8 +5,7 @@
 + Company Overview:
   + Established two years ago, with a strong presence in the Indian market.
   + Committed to empowering local drivers and providing excellent service to passengers.
-+2024 Targets:
-  + Ambitious goals for growth and improving passenger satisfaction.
+  +2024 Targets: Ambitious goals for growth and improving passenger satisfaction.
 + Key Metrics Analyzed:
   - Trip volume.
   - Passenger satisfaction.
